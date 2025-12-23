@@ -11,7 +11,7 @@
 
 ---
 
-### Dark Theme
+### Stonekai
 
 ![Stonekai Dark Theme Preview](https://raw.githubusercontent.com/Henriquehnnm/stonekai-theme/refs/heads/main/preview.png)
 
