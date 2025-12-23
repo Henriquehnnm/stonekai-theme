@@ -48,6 +48,7 @@
     "statusBar.noFolderBackground": "#2B2624",
     "statusBar.debuggingBackground": "#AAA39E",
     "statusBarItem.remoteBackground": "#B2A1F2",
+    "activityBarBadge.background": "#EFD36A",
     "ports.iconRunningProcessForeground": "#AAA39E",
     "activityBar.background": "#1D1A18",
     "activityBar.foreground": "#E6E3E1",
