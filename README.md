@@ -19,7 +19,7 @@ Stonekai is a theme that provides a cool and modern feel for your Visual Studio 
 
 1.  Open **Visual Studio Code**.
 2.  Go to the **Extensions** view (`Ctrl+Shift+X`).
-3.  Search for `Stonekai Theme`.
+3.  Search for `Stonekai`.
 4.  Click **Install** to apply the theme.
 5.  Go to **File** > **Preferences** > **Color Theme** and select `Stonekai`.
 
