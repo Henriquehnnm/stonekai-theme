@@ -1,0 +1,22 @@
+# Stonekai
+
+## BG
+
+#1D1A18
+#2B2624
+#3F3A35
+
+## FG
+
+#E6E3E1
+#AAA39E
+#7E7772
+
+# Accent
+
+#FF6B8A
+#FD9B6A
+#EFD36A
+#A7D97C
+#7AD6E2
+#B2A1F2

@@ -1,0 +1,22 @@
+# Stonekai Light
+
+## BG
+
+#FDFBF8
+#F5F2ED
+#EAE6E1
+
+## FG
+
+#3F3A35
+#5A524C
+#7E7772
+
+# Accent
+
+#B33E5B
+#C4653A
+#B59632
+#6A9E4B
+#3F95A5
+#7762C2
