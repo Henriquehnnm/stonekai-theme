@@ -1,7 +1,7 @@
 {
   "name": "stonekai-theme",
   "displayName": "Stonekai",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A dark theme with stone-like colors.",
   "author": "Henriquehnnm",
   "publisher": "Henriquehnnm",
@@ -15,17 +15,19 @@
     "vscode": "^1.0.0"
   },
   "categories": [
-    "Themes",
-    "Icon Themes"
+    "Themes"
   ],
   "keywords": [
     "theme",
     "dark",
-    "light",
     "icon-theme",
     "stonekai",
     "stone",
-    "kai"
+    "kai",
+    "monokai",
+    "Monokai Pro",
+    "Pro",
+    "Mono"
   ],
   "contributes": {
     "themes": [
@@ -33,11 +35,6 @@
         "label": "Stonekai",
         "uiTheme": "vs-dark",
         "path": "./src/stonekai.json"
-      },
-      {
-        "label": "Stonekai Light",
-        "uiTheme": "vs",
-        "path": "./src/stonekai_light.json"
       }
     ],
     "iconThemes": [
@@ -45,11 +42,6 @@
         "id": "stonekai",
         "label": "Stonekai",
         "path": "./icons/Stonekai/theme.json"
-      },
-      {
-        "id": "stonekai-light",
-        "label": "Stonekai Light",
-        "path": "./icons/Stonekai_Light/theme.json"
       }
     ]
   }
